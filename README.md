@@ -17,6 +17,7 @@ I never give up so I will keep Building.
 
 
 ## Contact me
-*@alamilladev*
+Let's create amazing thing!
+You can find me as *@alamilladev*
 - [Instagram](https://www.instagram.com/alamilladev/)
 - [Twitter](https://twitter.com/alamilladev)
