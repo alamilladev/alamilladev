@@ -1,7 +1,7 @@
 # Armando Alamilla
 
-I'm web developer and artificial intelligence student.
-I love to contribute in communities and create projects. I have special affection for teach and learn new things.
+I'm a web developer and an artificial intelligence student.
+I love to contribute in communities and create projects. I have special affection for teach and learn something new.
 I never give up so I will keep Building.
 
 - 💻 Web developer
