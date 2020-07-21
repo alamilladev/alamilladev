@@ -16,6 +16,7 @@ I never give up so I will keep Building.
 - Secretary of Informatic at [AztecMUN 2020](https://www.facebook.com/AZTECMUN2020/)
 
 
-## Contact me: @alamilladev
+## Contact me
+**@alamilladev**
 - [Instagram](https://www.instagram.com/alamilladev/)
 - [Twitter](https://twitter.com/alamilladev)
