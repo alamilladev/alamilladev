@@ -6,7 +6,7 @@ I never give up so I will keep Building.
 
 - 💻 Web developer
 - 📚 A.I. student
-- 🤖 FIRST Robotics Alumni
+- 🤖 [FIRST](https://www.firstinspires.org/) Robotics Alumni
 - 🚀 Lifelong learning
 - 💪 I never give up
 
@@ -17,6 +17,6 @@ I never give up so I will keep Building.
 
 
 ## Contact me
-Let's create amazing thing! - *@alamilladev*
+Let's create something amazing! - *@alamilladev*
 - [Instagram](https://www.instagram.com/alamilladev/)
 - [Twitter](https://twitter.com/alamilladev)
