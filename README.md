@@ -1,21 +1,21 @@
 # Armando Alamilla
 
-Soy desarrollador web y estudiante de inteligencia artificial.
+I'm web developer and artificial intelligence student.
+I love to contribute in communities and create projects. I have special affection for teach and learn new things.
+I never give up so I will keep Building.
 
-<!--
-**alamilladev/alamilladev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 💻 Web developer
+- 📚 A.I. student
+- 🤖 FIRST Robotics Alumni
+- 🚀 Lifelong learning
+- 💪 I never give up
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## My experience
+- Web developer and programmer at [Aztech Robotics](https://www.facebook.com/aztechrobotics/)
+- Secretary of Informatic at [AztecMUN 2020](https://www.facebook.com/AZTECMUN2020/)
 
-## Contáctame - @alamilladev
-- [![Twitter](https://twitter.com/alamilladev)](https://twitter.com/alamilladev)
+
+## Contact me - @alamilladev
+- [Instagram](https://www.instagram.com/alamilladev/)
+- [Twitter](https://twitter.com/alamilladev)
