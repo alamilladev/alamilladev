@@ -1,4 +1,6 @@
-### Hi there 👋
+# Armando Alamilla
+
+Soy desarrollador web y estudiante de inteligencia artificial.
 
 <!--
 **alamilladev/alamilladev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +16,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## Contáctame - @alamilladev
+- [![Twitter](https://twitter.com/alamilladev)](https://twitter.com/alamilladev)
