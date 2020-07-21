@@ -6,7 +6,7 @@ I never give up so I will keep Building.
 
 - 💻 Web developer
 - 📚 A.I. student
-- 🤖 [FIRST](https://www.firstinspires.org/) Robotics Alumni
+- 🤖 [FIRST Robotics](https://www.firstinspires.org/) Alumni
 - 🚀 Lifelong learning
 - 💪 I never give up
 
