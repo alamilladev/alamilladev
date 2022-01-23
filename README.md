@@ -1,22 +1,18 @@
 # Armando Alamilla Cuellar
 
-I'm a web developer and an artificial intelligence student.
-I love to contribute in communities and create projects. I have special affection for teach and learn something new.
-I never give up so I will keep Building.
+Hi! I'm Web developer at [Hapi App](https://imhapi.app/es) and software engineering student.
 
-- 💻 Web developer
-- 📚 A.I. student
-- 🤖 [FIRST](https://www.firstinspires.org/) Alumni
+- 💻 Computer science
 - 🚀 Lifelong learning
-- 💪 I never give up
 
 
 ## My experience
-- Web developer and programmer at [Aztech Robotics](https://www.facebook.com/aztechrobotics/)
-- Secretary of Informatic at [AztecMUN 2020](https://www.facebook.com/AZTECMUN2020/)
+- Software developer at [AztecMUN 2021](https://aztecmun.com/)
+- Web developer at [Hapi App](https://imhapi.app/es)
 
 
 ## Contact me
-Let's create something amazing! - *@alamilladev*
+Let's create amazing thing together! - *@alamilladev*
+- [LinkedIn](https://www.linkedin.com/in/alamilladev/)
 - [Instagram](https://www.instagram.com/alamilladev/)
 - [Twitter](https://twitter.com/alamilladev)
