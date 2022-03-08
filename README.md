@@ -7,8 +7,8 @@ Hi! I'm Web developer at [Hapi app](https://imhapi.app/es) and software engineer
 
 
 ## My experience
-- Software developer at [AztecMUN](https://aztecmun.com/)
 - Web developer at [Hapi app](https://imhapi.app/es)
+- Software developer at [AztecMUN](https://aztecmun.com/)
 
 
 ## Contact me
