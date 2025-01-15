@@ -1,14 +1,15 @@
 # Armando Alamilla Cuellar
 
-Hi! I'm a software engineer with passion for technology and finance. I love share my knowledge and help by creating digital solutions.
-
-- 💻 Software engineering
-- 🚀 Lifelong learning
+Hi! I'm a software engineer with passion for technology and economy. I love to share my knowledge and create digital products.
+- 💻 Software engineering.
+- 📈 Economy and investments.
+- 🚀 Lifelong learning.
 
 
 ## My experience
-- Web developer at [Hapi corp](https://hapi.trade/)
-- Software developer at [AztecMUN 2022](https://aztecmun.com/)
+- Freelance software developer (2019 - 2021)
+- Web developer at [Hapi Corp](https://hapi.trade/) (2021 - 2024)
+- Web development lead at [Hapi Corp](https://hapi.trade/) (2024 - present)
 
 
 ## Contact me
